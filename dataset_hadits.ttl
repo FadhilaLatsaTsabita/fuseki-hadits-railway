@@ -23,5 +23,5 @@
 
 :default_graph a ja:MemoryModel ;
     ja:content [ ja:externalContent <file:///staging/knowledge_graph.ttl> ] ;
-    ja:content [ ja:externalContent <file:///staging/ontology_schema.ttl> ] ;
+    ja:content [ ja:externalContent <file:///staging/protege_hadits_fixed.ttl> ] ;
     .
